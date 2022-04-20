@@ -7,4 +7,4 @@ After crawling the data, I had a lot of unuseful data and had to deal with them.
 Visualizing the data 📊 -  helped me to understand my data and to check the corelations between all the features while using different plots.
 
 End of the project was the prediction of my research. I used the SKlearn library and used 2 different models: KNN and Decision Tree.
-The result of the project was fantastic and got 70 percent of precision 🙂 
+The result of the project was fantastic and got 76 percent of precision 🙂 
